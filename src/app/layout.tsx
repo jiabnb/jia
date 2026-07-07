@@ -42,6 +42,11 @@ export const metadata: Metadata = {
   icons: {
     icon: "/jia-logo.jpg",
   },
+  verification: {
+    other: {
+      "ory-verify": "orynth-9b97358c04ae497b8eb06918c5fdddb4",
+    },
+  },
 };
 
 export const viewport: Viewport = {
